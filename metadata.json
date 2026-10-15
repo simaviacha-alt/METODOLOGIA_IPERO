@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma de Capacitación IPERO SST",
+  "description": "Plataforma de capacitación obligatoria en Identificación de Peligros, Evaluación, Control de Riesgos Ocupacionales y Oportunidades SST (IPERO) con video protegido, examen y bot de consultas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
